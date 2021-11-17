@@ -18,3 +18,10 @@ You may assume the two numbers do not contain any leading zero, except the numbe
     Output: [7,0,8]
     Explanation: 342 + 465 = 807.
 
+## 3. Longest Substring Without Repeating Characters
+Given a string s, find the length of the longest substring without repeating characters.
+
+#### Example:
+    Input: s = "abcabcbb"
+    Output: 3
+    Explanation: The answer is "abc", with the length of 3.
