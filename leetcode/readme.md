@@ -26,6 +26,15 @@ Given a string s, find the length of the longest substring without repeating cha
     Output: 3
     Explanation: The answer is "abc", with the length of 3.
 
+## 4. Longest Palindromic Substring
+
+Given a string s, return the longest palindromic substring in s.
+
+#### Example:
+    Input: s = "babad"
+    Output: "bab"
+    Note: "aba" is also a valid answer.
+
 # HARD
 
 ## 1. Median of two sorted arrays
