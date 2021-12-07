@@ -55,6 +55,19 @@ Write the code that will take a string and make this conversion given a number o
     Y A   H R
     P     I
 
+
+## 6. [Reverse Integer](medium/reversed_integers.py)
+
+Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2^31, 2^31 - 1], then return 0.
+
+Assume the environment does not allow you to store 64-bit integers (signed or unsigned)
+
+### Example:
+    Input: x = -123
+    Output: -321
+
+
+
 # HARD
 
 ## 1. Median of two sorted arrays
