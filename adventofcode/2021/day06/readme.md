@@ -1,5 +1,7 @@
 # --- Day 6: Lanternfish ---
 
+### Click [me](https://adventofcode.com/2021/day/6) to open the task.
+
 The sea floor is getting steeper. Maybe the sleigh keys got carried this way?
 
 A massive school of glowing lanternfish swims past. They must spawn quickly to reach such large numbers - maybe exponentially quickly? You should model their growth rate to be sure.
