@@ -4,11 +4,11 @@
 
 **Input puzzle** - string of bits in hexadecimal (packet).
 
-#### Part 1.
+#### Part 1
 We need to calculate sum of all versions of subpackets in input packet.
 1) Translate input to binary bits.
 2) Recursively decode the packet.
 3) Profit 🤪
 
-#### Part 2.
+#### Part 2
 Decode all subpackets and apply the operations.
