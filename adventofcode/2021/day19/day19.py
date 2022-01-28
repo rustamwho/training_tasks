@@ -1,8 +1,6 @@
 import re
 from collections import defaultdict
-from itertools import combinations, permutations, combinations, product, \
-    combinations_with_replacement
-from math import prod
+from itertools import combinations
 
 
 def get_numbers_from_string(string: str) -> list[int]:
